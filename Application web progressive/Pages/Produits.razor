@@ -1,0 +1,48 @@
+﻿@page "/produits"
+@inject WSService service
+
+<PageTitle>Produits</PageTitle>
+
+<h1>Liste des produits</h1>
+
+<p>Ce composant montre la liste des produits disponibles.</p>
+
+@if (produits == null)
+{
+    <p><em>Chargement...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nom du produit</th>
+                <th>Description</th>
+                <th>Stock réel</th>
+                <th>Stock minimum</th>
+                <th>Stock maximum</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var produit in produits)
+            {
+                <tr>
+                    <td>@produit.Nomproduit</td>
+                    <td>@produit.Description</td>
+                    <td>@produit.Stockreel</td>
+                    <td>@produit.Stockmin</td>
+                    <td>@produit.Stockmax</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Produit>? produits;
+
+    protected override async Task OnInitializedAsync()
+    {
+        produits = await service.GetProduitsAsync("Produits");
+    }
+}

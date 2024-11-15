@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\td1\\models\\datamanager\\produitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|solutionrelative:td1\\models\\datamanager\\produitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\td1\\models\\dto\\produitprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|solutionrelative:td1\\models\\dto\\produitprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\romai\\AppData\\Local\\Temp\\43de2ebd-157c-4d89-98e2-63bc0c85ed7e_TD1_S5_QualiteDev-main.zip.d7e\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\ViewModels\\ProduitViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\romai\\AppData\\Local\\Temp\\cfeaf5cf-69d4-4544-8e60-5637ee8be5dc_TD1_S5_QualiteDev-main.zip.5dc\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\Pages\\Produits.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\models\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\models\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\models\\services\\wsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\models\\services\\wsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\pages\\produits.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\pages\\produits.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\romai\\AppData\\Local\\Temp\\399d6ee3-cc79-4255-a552-1bc9be7fe236_TD1_S5_QualiteDev-main.zip.236\\TD1_S5_QualiteDev-main\\TPRevision\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\romai\\AppData\\Local\\Temp\\ea1df25c-dd52-4936-a89f-24adcc6a7ea5_TD1_S5_QualiteDev-main.zip.ea5\\TD1_S5_QualiteDev-main\\TPRevision\\Models\\Manager\\ProduitManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\romai\\AppData\\Local\\Temp\\d9e31116-b8e3-43c8-b0a4-0febade487fd_TD1_S5_QualiteDev-main.zip.7fd\\TD1_S5_QualiteDev-main\\TPRevision\\Controller\\ProduitsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\td1\\models\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|solutionrelative:td1\\models\\dto\\produitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\td1\\models\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|solutionrelative:td1\\models\\dto\\produitdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\td1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7C55E5-40FC-4EB1-BB65-A0D54EE42AF3}|TD1\\TD1.csproj|solutionrelative:td1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\application web progressive.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\application web progressive.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|c:\\users\\romai\\desktop\\nouveau dossier\\application web progressive\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB15AC86-107A-448A-971C-D685CA7CCC9E}|Application web progressive\\Application web progressive.csproj|solutionrelative:application web progressive\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProduitViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\AppData\\Local\\Temp\\43de2ebd-157c-4d89-98e2-63bc0c85ed7e_TD1_S5_QualiteDev-main.zip.d7e\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\ViewModels\\ProduitViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\43de2ebd-157c-4d89-98e2-63bc0c85ed7e_TD1_S5_QualiteDev-main.zip.d7e\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\ViewModels\\ProduitViewModel.cs",
+              "ToolTip": "C:\\Users\\romai\\AppData\\Local\\Temp\\43de2ebd-157c-4d89-98e2-63bc0c85ed7e_TD1_S5_QualiteDev-main.zip.d7e\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\ViewModels\\ProduitViewModel.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\43de2ebd-157c-4d89-98e2-63bc0c85ed7e_TD1_S5_QualiteDev-main.zip.d7e\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\ViewModels\\ProduitViewModel.cs [Lecture seule]",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:40:57.361Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produits.razor",
+              "DocumentMoniker": "C:\\Users\\romai\\AppData\\Local\\Temp\\cfeaf5cf-69d4-4544-8e60-5637ee8be5dc_TD1_S5_QualiteDev-main.zip.5dc\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\Pages\\Produits.razor",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\cfeaf5cf-69d4-4544-8e60-5637ee8be5dc_TD1_S5_QualiteDev-main.zip.5dc\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\Pages\\Produits.razor",
+              "ToolTip": "C:\\Users\\romai\\AppData\\Local\\Temp\\cfeaf5cf-69d4-4544-8e60-5637ee8be5dc_TD1_S5_QualiteDev-main.zip.5dc\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\Pages\\Produits.razor [Lecture seule]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\cfeaf5cf-69d4-4544-8e60-5637ee8be5dc_TD1_S5_QualiteDev-main.zip.5dc\\TD1_S5_QualiteDev-main\\GestionProduit_Client\\Pages\\Produits.razor [Lecture seule]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T07:39:35.812Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProduitDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitDetailDto.cs",
+              "RelativeDocumentMoniker": "TD1\\Models\\DTO\\ProduitDetailDto.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitDetailDto.cs",
+              "RelativeToolTip": "TD1\\Models\\DTO\\ProduitDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:20:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduitManager.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DataManager\\ProduitManager.cs",
+              "RelativeDocumentMoniker": "TD1\\Models\\DataManager\\ProduitManager.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DataManager\\ProduitManager.cs",
+              "RelativeToolTip": "TD1\\Models\\DataManager\\ProduitManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:35:42.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProduitProfile.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitProfile.cs",
+              "RelativeDocumentMoniker": "TD1\\Models\\DTO\\ProduitProfile.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitProfile.cs",
+              "RelativeToolTip": "TD1\\Models\\DTO\\ProduitProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:31:36.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Program.cs",
+              "RelativeDocumentMoniker": "TD1\\Program.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Program.cs",
+              "RelativeToolTip": "TD1\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:28:25.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProduitDto.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitDto.cs",
+              "RelativeDocumentMoniker": "TD1\\Models\\DTO\\ProduitDto.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\TD1\\Models\\DTO\\ProduitDto.cs",
+              "RelativeToolTip": "TD1\\Models\\DTO\\ProduitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:53:05.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\_Imports.razor",
+              "RelativeDocumentMoniker": "Application web progressive\\_Imports.razor",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\_Imports.razor",
+              "RelativeToolTip": "Application web progressive\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:49:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Produits.razor",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Produits.razor",
+              "RelativeDocumentMoniker": "Application web progressive\\Pages\\Produits.razor",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Produits.razor",
+              "RelativeToolTip": "Application web progressive\\Pages\\Produits.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:26:06.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Models\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Application web progressive\\Models\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Models\\Services\\IService.cs",
+              "RelativeToolTip": "Application web progressive\\Models\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:36:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WSService.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Models\\Services\\WSService.cs",
+              "RelativeDocumentMoniker": "Application web progressive\\Models\\Services\\WSService.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Models\\Services\\WSService.cs",
+              "RelativeToolTip": "Application web progressive\\Models\\Services\\WSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:25:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Program.cs",
+              "RelativeDocumentMoniker": "Application web progressive\\Program.cs",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Program.cs",
+              "RelativeToolTip": "Application web progressive\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:29:12.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\AppData\\Local\\Temp\\399d6ee3-cc79-4255-a552-1bc9be7fe236_TD1_S5_QualiteDev-main.zip.236\\TD1_S5_QualiteDev-main\\TPRevision\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\399d6ee3-cc79-4255-a552-1bc9be7fe236_TD1_S5_QualiteDev-main.zip.236\\TD1_S5_QualiteDev-main\\TPRevision\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\romai\\AppData\\Local\\Temp\\399d6ee3-cc79-4255-a552-1bc9be7fe236_TD1_S5_QualiteDev-main.zip.236\\TD1_S5_QualiteDev-main\\TPRevision\\AutoMapperProfile.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\399d6ee3-cc79-4255-a552-1bc9be7fe236_TD1_S5_QualiteDev-main.zip.236\\TD1_S5_QualiteDev-main\\TPRevision\\AutoMapperProfile.cs [Lecture seule]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:25:04.073Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProduitManager.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\AppData\\Local\\Temp\\ea1df25c-dd52-4936-a89f-24adcc6a7ea5_TD1_S5_QualiteDev-main.zip.ea5\\TD1_S5_QualiteDev-main\\TPRevision\\Models\\Manager\\ProduitManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\ea1df25c-dd52-4936-a89f-24adcc6a7ea5_TD1_S5_QualiteDev-main.zip.ea5\\TD1_S5_QualiteDev-main\\TPRevision\\Models\\Manager\\ProduitManager.cs",
+              "ToolTip": "C:\\Users\\romai\\AppData\\Local\\Temp\\ea1df25c-dd52-4936-a89f-24adcc6a7ea5_TD1_S5_QualiteDev-main.zip.ea5\\TD1_S5_QualiteDev-main\\TPRevision\\Models\\Manager\\ProduitManager.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\ea1df25c-dd52-4936-a89f-24adcc6a7ea5_TD1_S5_QualiteDev-main.zip.ea5\\TD1_S5_QualiteDev-main\\TPRevision\\Models\\Manager\\ProduitManager.cs [Lecture seule]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:26:40.644Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProduitsController.cs",
+              "DocumentMoniker": "C:\\Users\\romai\\AppData\\Local\\Temp\\d9e31116-b8e3-43c8-b0a4-0febade487fd_TD1_S5_QualiteDev-main.zip.7fd\\TD1_S5_QualiteDev-main\\TPRevision\\Controller\\ProduitsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\d9e31116-b8e3-43c8-b0a4-0febade487fd_TD1_S5_QualiteDev-main.zip.7fd\\TD1_S5_QualiteDev-main\\TPRevision\\Controller\\ProduitsController.cs",
+              "ToolTip": "C:\\Users\\romai\\AppData\\Local\\Temp\\d9e31116-b8e3-43c8-b0a4-0febade487fd_TD1_S5_QualiteDev-main.zip.7fd\\TD1_S5_QualiteDev-main\\TPRevision\\Controller\\ProduitsController.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\d9e31116-b8e3-43c8-b0a4-0febade487fd_TD1_S5_QualiteDev-main.zip.7fd\\TD1_S5_QualiteDev-main\\TPRevision\\Controller\\ProduitsController.cs [Lecture seule]",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:28:31.485Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Application web progressive\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Home.razor",
+              "RelativeToolTip": "Application web progressive\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:49:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Application web progressive\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Pages\\Counter.razor",
+              "RelativeToolTip": "Application web progressive\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:49:23.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application web progressive",
+              "DocumentMoniker": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Application web progressive.csproj",
+              "RelativeDocumentMoniker": "Application web progressive\\Application web progressive.csproj",
+              "ToolTip": "C:\\Users\\romai\\Desktop\\Nouveau dossier\\Application web progressive\\Application web progressive.csproj",
+              "RelativeToolTip": "Application web progressive\\Application web progressive.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T07:35:06.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
